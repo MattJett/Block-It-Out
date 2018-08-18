@@ -1,0 +1,17 @@
+C:\Users\serap\Google Drive\School\CSCD 371 - .Net (second)\Assignments\HW5 - Final Block Breaker game GUI\HW5 - Final Block Breaker game GUI\Block It Out\bin\Debug\Block It Out.exe.config
+C:\Users\serap\Google Drive\School\CSCD 371 - .Net (second)\Assignments\HW5 - Final Block Breaker game GUI\HW5 - Final Block Breaker game GUI\Block It Out\bin\Debug\Block It Out.exe
+C:\Users\serap\Google Drive\School\CSCD 371 - .Net (second)\Assignments\HW5 - Final Block Breaker game GUI\HW5 - Final Block Breaker game GUI\Block It Out\bin\Debug\Block It Out.pdb
+C:\Users\serap\Google Drive\School\CSCD 371 - .Net (second)\Assignments\HW5 - Final Block Breaker game GUI\HW5 - Final Block Breaker game GUI\Block It Out\obj\Debug\Block It Out.csprojAssemblyReference.cache
+C:\Users\serap\Google Drive\School\CSCD 371 - .Net (second)\Assignments\HW5 - Final Block Breaker game GUI\HW5 - Final Block Breaker game GUI\Block It Out\obj\Debug\MainWindow.g.cs
+C:\Users\serap\Google Drive\School\CSCD 371 - .Net (second)\Assignments\HW5 - Final Block Breaker game GUI\HW5 - Final Block Breaker game GUI\Block It Out\obj\Debug\App.g.cs
+C:\Users\serap\Google Drive\School\CSCD 371 - .Net (second)\Assignments\HW5 - Final Block Breaker game GUI\HW5 - Final Block Breaker game GUI\Block It Out\obj\Debug\Block It Out_MarkupCompile.cache
+C:\Users\serap\Google Drive\School\CSCD 371 - .Net (second)\Assignments\HW5 - Final Block Breaker game GUI\HW5 - Final Block Breaker game GUI\Block It Out\obj\Debug\Block It Out_MarkupCompile.lref
+C:\Users\serap\Google Drive\School\CSCD 371 - .Net (second)\Assignments\HW5 - Final Block Breaker game GUI\HW5 - Final Block Breaker game GUI\Block It Out\obj\Debug\MainWindow.baml
+C:\Users\serap\Google Drive\School\CSCD 371 - .Net (second)\Assignments\HW5 - Final Block Breaker game GUI\HW5 - Final Block Breaker game GUI\Block It Out\obj\Debug\Block It Out.g.resources
+C:\Users\serap\Google Drive\School\CSCD 371 - .Net (second)\Assignments\HW5 - Final Block Breaker game GUI\HW5 - Final Block Breaker game GUI\Block It Out\obj\Debug\Block_It_Out.Properties.Resources.resources
+C:\Users\serap\Google Drive\School\CSCD 371 - .Net (second)\Assignments\HW5 - Final Block Breaker game GUI\HW5 - Final Block Breaker game GUI\Block It Out\obj\Debug\Block It Out.csproj.GenerateResource.cache
+C:\Users\serap\Google Drive\School\CSCD 371 - .Net (second)\Assignments\HW5 - Final Block Breaker game GUI\HW5 - Final Block Breaker game GUI\Block It Out\obj\Debug\Block It Out.csproj.CoreCompileInputs.cache
+C:\Users\serap\Google Drive\School\CSCD 371 - .Net (second)\Assignments\HW5 - Final Block Breaker game GUI\HW5 - Final Block Breaker game GUI\Block It Out\obj\Debug\Block It Out.exe
+C:\Users\serap\Google Drive\School\CSCD 371 - .Net (second)\Assignments\HW5 - Final Block Breaker game GUI\HW5 - Final Block Breaker game GUI\Block It Out\obj\Debug\Block It Out.pdb
+C:\Users\serap\Google Drive\School\CSCD 371 - .Net (second)\Assignments\HW5 - Final Block Breaker game GUI\HW5 - Final Block Breaker game GUI\Block It Out\obj\Debug\Block It Out_Content.g.cs
+C:\Users\serap\Google Drive\School\CSCD 371 - .Net (second)\Assignments\HW5 - Final Block Breaker game GUI\HW5 - Final Block Breaker game GUI\Block It Out\obj\Debug\App.baml
